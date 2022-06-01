@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tofe54.github.io/quote-machine/static/css/main.117ab9b4.css",
-    "main.js": "/tofe54.github.io/quote-machine/static/js/main.3cc06673.js",
-    "static/js/787.39bb0775.chunk.js": "/tofe54.github.io/quote-machine/static/js/787.39bb0775.chunk.js",
-    "index.html": "/tofe54.github.io/quote-machine/index.html",
-    "main.117ab9b4.css.map": "/tofe54.github.io/quote-machine/static/css/main.117ab9b4.css.map",
-    "main.3cc06673.js.map": "/tofe54.github.io/quote-machine/static/js/main.3cc06673.js.map",
-    "787.39bb0775.chunk.js.map": "/tofe54.github.io/quote-machine/static/js/787.39bb0775.chunk.js.map"
+    "main.css": "/FCC-random-quote-machine/static/css/main.117ab9b4.css",
+    "main.js": "/FCC-random-quote-machine/static/js/main.3f770580.js",
+    "static/js/787.39bb0775.chunk.js": "/FCC-random-quote-machine/static/js/787.39bb0775.chunk.js",
+    "index.html": "/FCC-random-quote-machine/index.html",
+    "main.117ab9b4.css.map": "/FCC-random-quote-machine/static/css/main.117ab9b4.css.map",
+    "main.3f770580.js.map": "/FCC-random-quote-machine/static/js/main.3f770580.js.map",
+    "787.39bb0775.chunk.js.map": "/FCC-random-quote-machine/static/js/787.39bb0775.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.117ab9b4.css",
-    "static/js/main.3cc06673.js"
+    "static/js/main.3f770580.js"
   ]
 }
